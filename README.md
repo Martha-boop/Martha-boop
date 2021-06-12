@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Martha-boop/Martha-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Marta ,sou  Catarinense
 
 Here are some ideas to get you started:
 
