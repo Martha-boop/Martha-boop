@@ -1,15 +1,4 @@
-### Hi there 👋
-
-Me chamo Marta ,sou  Catarinense
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..Não
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...martaneris35@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  n
--->
+Olá Mundo !!😃
+Me chamo Marta, sou Catarinense apaixonada por tecnologia codicos .tenho alguns repósitorios aqui no GITHUB fique a vontade para usufruir.
+Meu contato:martaneris35@gmail.com
+https://www.linkedin.com/in/martha-neris-140aaa209/
